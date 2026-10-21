@@ -1,0 +1,272 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 15,
+    "steps": 7000,
+    "easy": false,
+    "stairs": false
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "morningWalkMin": 25,
+    "eveningWalkMin": 15,
+    "steps": 6500,
+    "easy": true,
+    "stairs": false
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "morningWalkMin": 30,
+    "eveningWalkMin": 20,
+    "steps": 7500,
+    "easy": true,
+    "stairs": true
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 25,
+    "steps": 10000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 20,
+    "steps": 8500,
+    "easy": true,
+    "stairs": true
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "morningWalkMin": 35,
+    "eveningWalkMin": 25,
+    "steps": 9500,
+    "easy": true,
+    "stairs": true
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "morningWalkMin": 40,
+    "eveningWalkMin": 30,
+    "steps": 11000,
+    "easy": false,
+    "stairs": true
+  }
+]

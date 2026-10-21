@@ -1,0 +1,43 @@
+{
+  "_note": "Ingredients per serving for each dish in the diet roster. Edit freely — the kitchen view reads from here.",
+  "_daily": { "oil": 3 },
+
+  "Sattu sharbat + 2 boiled eggs":    { "sattu": 30, "lemon": 1, "eggs": 2 },
+  "2 besan chilla + curd":            { "besan": 60, "curd": 150 },
+  "Chura-dahi (no sugar)":            { "chura": 50, "curd": 150 },
+  "Veg poha + 1 glass milk":          { "poha": 50, "mixedVeg": 50, "milk": 200 },
+  "Sattu sharbat + 1 katori sprouts": { "sattu": 30, "lemon": 1, "sprouts": 50 },
+  "2 moong chilla + curd":            { "moongDal": 60, "curd": 150 },
+  "Veg dalia + 2 boiled eggs":        { "dalia": 50, "mixedVeg": 50, "eggs": 2 },
+
+  "Guava":          { "guava": 1 },
+  "Apple":          { "apple": 1 },
+  "Papaya bowl":    { "papaya": 150 },
+  "Orange":         { "orange": 1 },
+  "Pear":           { "pear": 1 },
+  "½ pomegranate":  { "pomegranate": 0.5 },
+  "Small banana":   { "banana": 1 },
+
+  "2 roti + dal + lauki + salad":         { "atta": 60, "dal": 40, "lauki": 200, "saladVeg": 100 },
+  "1 katori rice + dal + bhindi + curd":  { "rice": 60, "dal": 40, "bhindi": 200, "curd": 150 },
+  "2 roti + rajma + salad":               { "atta": 60, "rajma": 40, "saladVeg": 100 },
+  "2 roti + kadhi + palak":               { "atta": 60, "besan": 20, "curd": 100, "palak": 200 },
+  "1 katori rice + ghugni + salad":       { "rice": 60, "kalaChana": 40, "saladVeg": 100 },
+  "2 roti + paneer sabzi (75 g) + salad": { "atta": 60, "paneer": 75, "mixedVeg": 100, "saladVeg": 100 },
+  "1 katori rice + dal + baingan chokha": { "rice": 60, "dal": 40, "baingan": 200 },
+
+  "Tea + roasted chana":           { "tea": 3, "milk": 50, "roastedChana": 30 },
+  "Buttermilk + cucumber":         { "curd": 100, "cucumber": 1 },
+  "Tea + makhana":                 { "tea": 3, "milk": 50, "makhana": 20 },
+  "Tea + sprouts chaat":           { "tea": 3, "milk": 50, "sprouts": 50, "saladVeg": 30 },
+  "Small fistful roasted peanuts": { "peanuts": 25 },
+  "Buttermilk + carrot":           { "curd": 100, "carrot": 1 },
+
+  "2 roti + paneer bhurji (100 g) + sabzi":   { "atta": 60, "paneer": 100, "mixedVeg": 150 },
+  "2 roti + 2-egg bhurji + sabzi":            { "atta": 60, "eggs": 2, "mixedVeg": 150 },
+  "1 roti + dal + big bowl sabzi":            { "atta": 30, "dal": 40, "mixedVeg": 250 },
+  "2 roti + chicken curry (150 g) + salad":   { "atta": 60, "chicken": 150, "saladVeg": 100 },
+  "1 roti + moong dal + parwal":              { "atta": 30, "moongDal": 40, "parwal": 200 },
+  "2 roti + fish curry (150 g) + salad":      { "atta": 60, "fish": 150, "saladVeg": 100 },
+  "2 baked litti (no ghee) + chokha + salad": { "atta": 80, "sattu": 40, "baingan": 150, "saladVeg": 100 }
+}

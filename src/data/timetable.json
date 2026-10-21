@@ -1,0 +1,13 @@
+[
+  { "time": "06:00", "label": "Wake up", "detail": "2 glasses of lukewarm water (lemon optional)" },
+  { "time": "06:05", "label": "Morning walk", "detail": "Brisk, 30–40 min — talking slightly hard", "kind": "exercise" },
+  { "time": "06:50", "label": "Breakfast", "detail": "Quick — prepped the night before", "kind": "meal", "meal": "breakfast" },
+  { "time": "07:00", "label": "Business day", "detail": "Carry lunch tiffin, a fruit and roasted chana" },
+  { "time": "10:30", "label": "Mid-morning fruit", "kind": "meal", "meal": "fruit" },
+  { "time": "13:30", "label": "Lunch", "detail": "From the tiffin", "kind": "meal", "meal": "lunch" },
+  { "time": "16:30", "label": "Evening snack", "detail": "Tea without sugar + small snack", "kind": "meal", "meal": "snack" },
+  { "time": "20:30", "label": "Dinner", "detail": "Finish by 9:00 pm", "kind": "meal", "meal": "dinner" },
+  { "time": "21:15", "label": "Post-dinner walk", "detail": "15–30 min", "kind": "exercise" },
+  { "time": "23:30", "label": "Screens off", "detail": "No snacks" },
+  { "time": "00:00", "label": "Sleep", "detail": "6 hours" }
+]

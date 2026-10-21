@@ -1,0 +1,30 @@
+{
+  "name": "Dipesh",
+  "startWeightKg": 87,
+  "height": "5 ft 9 in",
+  "bmi": 28.4,
+  "goal": "Lose 4–6 kg in 30 days",
+  "durationDays": 30,
+  "defaultStartDate": "2026-10-21",
+  "dailyTargets": {
+    "kcal": "1,700–1,800",
+    "waterLitres": 3,
+    "steps": "7,000–11,000",
+    "oilTsp": 3,
+    "sleepHours": 6
+  },
+  "expectations": [
+    "Days 1–7: 1.5–2.5 kg (mostly water from cutting salt, sugar, refined carbs)",
+    "Days 8–30: 0.5–1 kg per week of real fat loss",
+    "Keep the routine after Day 30 — 10 kg is realistic in 2.5–3 months"
+  ],
+  "rules": [
+    "No added sugar — no sugar in tea, no mithai, no cold drinks or packaged juice",
+    "No fried food — samosa, puri, pakora, namkeen, chips, fried litti",
+    "No eating after 9:00 pm",
+    "No alcohol",
+    "Less salt — no pickle or papad"
+  ],
+  "safety": "Stop the walk and eat something if you feel dizzy, faint, have chest pain, or a racing heart. See a doctor if it happens again.",
+  "weighInDays": [1, 8, 15, 22, 29, 31]
+}
